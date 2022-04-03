@@ -9,6 +9,6 @@
 You can click the Preview link to take a look at your changes.
 ---> Target: sir.kvpx
 username: 7x5x16
-password: stiviktu01
+password:
 report: spam 
 report:spam
